@@ -27,3 +27,4 @@ suspected, charges may be filed against me without prior notice.”
 I am attempting this from scratch, I will compare it to my last semesters repository and make any corrections needed base on that.
 
 ## Answer
+Normal Mergesort has a runtime of $\Theta(nlog(n))$, but this Mergesort has extra logic(an extra for loop), which will make it $\Theta(n^{2}log(n))$.
