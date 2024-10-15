@@ -28,3 +28,4 @@ I am attempting this from scratch, I will compare it to my last semesters reposi
 
 ## Answer
 Normal Mergesort has a runtime of $\Theta(nlogn)$, but this Mergesort has extra logic(an extra for loop), which will make it $\Theta(n^{2}logn)$.
+Update-To be clearer, I had believed that I had mostly seen mergesort code that only used 1 for loop. Here what I innitially meant the nested for loops(2 total for loops) that caused the $n^2$ compared to $n$. Both those loops make sure that we iterate ovver every single element.
